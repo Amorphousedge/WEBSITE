@@ -61,18 +61,14 @@ body {
     margin-bottom: 10px;
 }
 
-/* Animation code */
-@keyframes example {
-    0% {
-        transform: translateX(0);
-    }
-    100% {
-        transform: translateX(100px);
-    }
+#key-table {
+    margin-top: 20px;
+    border-collapse: collapse;
+    width: 100%;
 }
 
-#panda-background {
-    animation-name: example;
-    animation-duration: 3s;
-    animation-iteration-count: infinite;
+#key-table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
 }
