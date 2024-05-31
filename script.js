@@ -36,4 +36,5 @@ function decrypt(text) {
     };
     let decryptedText = '';
 
-    for (let i
+    for (let i = 0; i < text.length; i++) {
+        const char = text[i
