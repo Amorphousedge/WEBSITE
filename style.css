@@ -16,38 +16,38 @@ body {
 
 #cryptogram-puzzle {
     background-color: #fff;
-    padding: 20px;
-    border-radius: 10px;
+    padding: 10px;
+    border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
 #cryptogram-input {
     width: 100%;
-    padding: 10px;
-    font-size: 18px;
+    padding: 5px;
+    font-size: 9px;
     border: none;
-    border-radius: 10px;
+    border-radius: 5px;
 }
 
 #submit-button {
     background-color: #4CAF50;
     color: #fff;
-    padding: 10px 20px;
+    padding: 5px 10px;
     border: none;
-    border-radius: 10px;
+    border-radius: 5px;
     cursor: pointer;
 }
 
 #result {
-    font-size: 24px;
+    font-size: 12px;
     font-weight: bold;
     color: #333;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 #hints {
-    margin-top: 20px;
-    font-size: 18px;
+    margin-top: 10px;
+    font-size: 9px;
     color: #666;
 }
 
@@ -58,11 +58,11 @@ body {
 }
 
 #hints li {
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 }
 
 #key-table {
-    margin-top: 20px;
+    margin-top: 10px;
     border-collapse: collapse;
     width: 100%;
 }
